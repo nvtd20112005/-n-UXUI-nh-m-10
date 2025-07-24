@@ -1,2 +1,2 @@
-# -n-UXUI-nh-m-10
+# UXUI project
 Đồ án UXUI nhóm 10 ( Thế giới di động)
